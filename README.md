@@ -1,10 +1,10 @@
-# Alpha97 Estate - Real Estate Web App
+# Perfect Homes - Real Estate Web App
 
-![Alpha97 Estate Logo](./client/public/app-screenshot-1.png)
+![Perfect Homes Logo](./client/public/app-screenshot-1.png)
 
-Alpha97 Estate is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
+Perfect Homes is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
 
-Check out the live app: [Alpha97 Estate on Render](https://alpha97-estate.onrender.com/)
+Check out the live app: [Perfect Homes on Render](https://alpha97-estate.onrender.com/)
 
 ## Features
 
@@ -66,7 +66,7 @@ Check out the live app: [Alpha97 Estate on Render](https://alpha97-estate.onrend
 
 ## Usage
 
-- Access the web app via the provided link: [Alpha97 Estate on Render](https://alpha97-estate.onrender.com/)
+- Access the web app via the provided link: [Perfect Homes on Render](https://alpha97-estate.onrender.com/)
 
 - Explore property listings, customize your search, and create a user profile to list properties or access additional features.
 

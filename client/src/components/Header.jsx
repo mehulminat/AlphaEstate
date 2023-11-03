@@ -62,6 +62,11 @@ const Header = () => {
               About
             </li>
           </Link>
+          <Link to={"/create-listing"}>
+            <li className="hidden sm:inline text-blue-700 hover:underline">
+              create listing
+            </li>
+          </Link>
 
           <Link to={"/profile"}>
             {currentUser ? (
